@@ -1,0 +1,35 @@
+package Aula01;
+
+public class Mensagem {
+
+
+	public static void obterMensagem(int hora) {
+		if (hora > 4 && hora < 13) {
+			mensagemBomDia();
+
+		} else if (hora > 12 && hora < 18) {
+			mensagemBoaTarde();
+
+		} else if (hora > 17 && hora < 5) {
+
+			mensagemBoaNoite();
+
+		} else {
+			System.out.println("Hora inválida.");
+		}
+
+        
+    }
+
+    public static void mensagemBomDia() {
+        System.out.println("Bom dia!");
+    }
+
+    public static void mensagemBoaTarde() {
+        System.out.println("Bom tarde!");
+    }
+
+    public static void mensagemBoaNoite() {
+        System.out.println("Bom noite!");
+    }
+}
