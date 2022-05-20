@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/MetodosJava/src/Aula01/Main.java"/>
+        <listEntry value="/MetodosJava/src/Exercicios/Main.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Aula01.Main"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Exercicios.Main"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MetodosJava"/>
 </launchConfiguration>
